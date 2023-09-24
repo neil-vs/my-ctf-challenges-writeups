@@ -12,4 +12,4 @@ The user of this PC was caught cheating on Valorant, can you figure out why his 
  
 
 **Note: the downloads are the same for all of the forensics.**
-Author: neil
+Author: neil | 53 solves / 460 points
