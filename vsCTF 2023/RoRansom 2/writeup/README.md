@@ -6,8 +6,8 @@ Growing up, Roblox played a significant role in my life. I have memories of expl
 ## **Solution Steps**
 
 ### **1. Pinpointing the Cached Asset**
-The challenge description nudges us towards locating a cached asset file on our system. While Roblox caches assets in several locations, the one of interest for this challenge is:
-`\Users\ftcsvisgreat\AppData\Local\Roblox\Downloads\roblox-player``
+The challenge description nudges us toward locating a cached asset file on our system. While Roblox caches assets in several locations, the one of interest for this challenge is:
+\Users\ftcsvisgreat\AppData\Local\Roblox\Downloads\roblox-player`
 
 ### **2. Identifying the Archive Files**
 Within this directory, you'll come across PK archive files. Their header is a telltale sign of their nature.
