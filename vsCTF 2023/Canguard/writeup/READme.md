@@ -1,7 +1,7 @@
 # Canguard?
 
 ## Motivation
-I am an avid game-hacker in my free time, but I love doing forensics/reverse in CTF. I would have made more reversing challenges but we had invited one of my gamer-hacker friends (shoutout to 3dsboy08 for his difficult rev :P) so we didn't need more rev. I wanted to make a forensics challenge with a game-hacking approach, but without the rigorous amounts of rev, for both legal and difficulty reasons. Then I thought about making Canguard.
+I am an avid game-hacker in my free time, but I love doing forensics/reverse in CTF. I would have made more reversing challenges but we had invited one of my game-hacker friends (shoutout to 3dsboy08 for his difficult rev :P) so we didn't need more rev. I wanted to make a forensics challenge with a game-hacking approach, but without the rigorous amounts of rev, for both legal and difficulty reasons. Then I thought about making Canguard.
 
 ## **Solution Steps**
 
